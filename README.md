@@ -1,20 +1,3 @@
-<div align="center" style="width: 300px; font-size: 80%; text-align: center; margin: 0 auto">
-<img src="https://i.ibb.co/ZzPWCtC/Black-Modern-Minimalist-Simple-Technology-Youtube-Channel-Art.gif"
-     alt="DOTS ANALYTICS"
-     style="float: left; padding-bottom=0.5em"
-     width=300px/>
-</div>
+<img src="https://i.ibb.co/T2KmF79/Blue-And-Black-Modern-Digital-Marketing-Resume.png" alt="drawing" width="1000"/>
+<img src="https://i.ibb.co/7C58pNF/Blue-And-Black-Modern-Digital-Marketing-Resume-1.png" alt="drawing" width="1000"/>
 
-
-- 👋 Hi, I’m @kojosbk
-- 
-
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-kojosbk/kojosbk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
